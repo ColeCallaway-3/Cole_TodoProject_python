@@ -7,6 +7,7 @@ if grade >= 90:
 elif grade == 70 <= 89:
     grade = "Satisfactory"
     print ( f"{name} your Grade is {grade}. Pretty good!")
-else: grade <= 69
+else: 
+    grade <= 69
     grade = "Needs Improvement"
     print ( f"{name} your Grade is {grade}. Contact me for assistance.")
