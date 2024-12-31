@@ -10,4 +10,4 @@ elif grade == 70 <= 89:
 else: 
     grade <= 69
     grade = "Needs Improvement"
-    print ( f"{name} your Grade is {grade}. Contact me for assistance.")
+    print ( f"{name} your Grade {grade}. Contact me for assistance.")
